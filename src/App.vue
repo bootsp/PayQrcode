@@ -1,10 +1,7 @@
 <template>
   <header class="header">
     <section class="main">
-      <h1>
-        <img src="./assets/images/logo.webp" />
-        PayQrcode
-      </h1>
+      <h1>小小聚合码</h1>
       <h2>二合一收款码物理合并版</h2>
     </section>
   </header>
